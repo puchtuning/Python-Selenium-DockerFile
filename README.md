@@ -1,2 +1,2 @@
 # Python-Selenium-DockerFile
-Dockerfile for Selenium tests with python
+Qwick and easy way to start Selenium testing with docker and python
